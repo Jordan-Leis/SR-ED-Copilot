@@ -1,0 +1,25 @@
+facets:
+  Technological_Advancement:
+    any:
+      - "novel algorithm"
+      - "new architecture"
+      - "improve accuracy"
+  Technological_Uncertainty:
+    any:
+      - "unknown behaviour"
+      - "unstable"
+      - "failed attempt"
+      - "bottleneck"
+  Systematic_Investigation:
+    any:
+      - "hypothesis"
+      - "experiment"
+      - "prototype"
+      - "measured"
+      - "benchmark"
+  Evidence:
+    any:
+      - "logs/"
+      - ".csv"
+      - "dataset"
+      - "appendix"
