@@ -1,0 +1,4 @@
+## {{ section }}
+
+{% for chunk in chunks %}- {{ chunk.text.strip() }} [{{ chunk.path }}:{{ chunk.start }}–{{ chunk.end }}]
+{% endfor %}

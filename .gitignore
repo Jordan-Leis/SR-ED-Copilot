@@ -1,0 +1,11 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+
+# Test cache
+.pytest_cache/
+
+# SQLite database
+sred.db
